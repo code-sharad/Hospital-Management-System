@@ -15,7 +15,7 @@ This project is a comprehensive Hospital Management System designed to streamlin
 
 - Frontend: Next.js with React
 - Backend: 
-- Database: 
+- Database:     
 
 ## Getting Started
 

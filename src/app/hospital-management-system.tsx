@@ -16,7 +16,7 @@ import {
 } from "@/components/ui/table";
 import { Hospital, Users, Bed, UserPlus, Pill, BarChart3 } from "lucide-react";
 
-export default function hospitalManagementSystem() {
+export default function HospitalManagementSystem() {
   const [opdQueue, setOpdQueue] = useState([
     { id: 1, name: "John Doe", department: "Cardiology", waitTime: "30 mins" },
     {

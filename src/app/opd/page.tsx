@@ -26,7 +26,7 @@ export default function OPDQueueManagement() {
     reason: "",
   });
 
-  const addToQueue = (e) => {
+  const addToQueue = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     setQueue([
       ...queue,
